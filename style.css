@@ -1,0 +1,151 @@
+body {
+    background-color: rgb(28, 115, 181);
+}
+
+h1, p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+header {
+    background-color: rgba(255, 237, 36, 0.826);
+    height: 150px;
+    border: 10px double black;
+}
+
+
+nav {
+    background-color: rgb(0, 53, 128);
+    height: 200px;
+    border: 10px dotted yellow;
+    width: 25%;
+    margin-top: 5px;
+    display: inline-block;
+    float: left;
+    margin-right: 2px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font: optional;
+    font-size: 24px;
+}
+
+nav h2 {
+    color: white;
+}
+
+a {
+    color: rgb(255, 251, 0);
+    font-size: 18px;
+    text-align: center;
+}
+
+.nav-1 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+section {
+    background-color: rgb(245, 229, 61);
+    height: 200px;
+    border: 10px double rgb(21, 23, 130);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 5px;
+    display: inline-block;
+    width: 48%;
+    float: left;
+    overflow: scroll;
+    margin-right: 5px;
+}
+
+#section-1 {
+    padding-top: 150px;
+}
+
+aside {
+    background-color: rgb(0, 53, 128);
+    height: 300px;
+    border: 10px dotted rgb(247, 255, 27);
+    width: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font: optional;
+    margin-top: 5px;
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-right: 2px;
+}
+
+#aside-1 {
+    height: 350px;
+    border-radius: 7px;
+}
+
+footer {
+    background-color: rgb(212, 209, 16);
+    height: 200px;
+    border: 10px double rgb(57, 9, 147);
+    margin-top: 5px;
+    display: inline-block;
+    float: left;
+    margin-right: 2px;
+    width: 98%;
+    height: 100px;
+}
+
+.footer-2 {
+    text-align: center;
+
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+aside a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font: optional;
+    font-size: 24px;
+}
+
+aside h3 {
+    color: white;
+}
+
+#section-1 img {
+    border: 10px double black;
+}
+
+aside ol li {
+    color: aliceblue;
+}
+
+nav ul li {
+    color: white;
+}
+p a {
+     color: black;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     text-decoration: none;
+}
+table, th,td {
+    border: solid 5px black;
+}
+table, caption {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px; 
+}
